@@ -1,7 +1,7 @@
 # ElectraDrive-Backend
 Tesla Clone Backend project
 
-# ⚡ ElectraDrive – Tesla Clone (Full Stack Application)
+# ⚡ ElectraDrive – Tesla Clone (Backend Application)
 
 ElectraDrive is a Tesla-inspired full-stack web application that replicates the sleek and modern UI/UX of [tesla.com](https://www.tesla.com). Built using **React** for the frontend and **Java Spring Boot** for the backend, it demonstrates a modular approach to state management, routing, and backend API integration.
 
