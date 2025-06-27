@@ -80,7 +80,7 @@ The application follows a standard client-server architecture with RESTful API i
 
 ### Phase 4: Deployment
 - Frontend hosted on **Netlify**:  
-  [https://electradrive.netlify.app](https://electradrive.netlify.app)
+  https://electradrv.netlify.app/
 
 ---
 
@@ -90,7 +90,7 @@ The application follows a standard client-server architecture with RESTful API i
 - Integrate Backend and Frontend for loading dynamic data.
 
 Live Demo
-Frontend: https://electradrive.netlify.app
+Frontend: https://electradrv.netlify.app/
 
 ## Resources Used
 - ChatGPT
